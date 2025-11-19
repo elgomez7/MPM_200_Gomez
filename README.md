@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+The code is organizing the raw data, subsetting it, and then start to evaluate each one of the covariables to address whether said covariates have any influence in the amount of birds that are surviving vs the ones that have died. We are creating graphs to express and being able to analyze each variable to test for any difference between the different data collected. If things like age or sex would influence the number of birds that live or die. And then, we are measuring the changes over time (month by month) (year by year)
 
 ## Project Organization
 ------------
